@@ -1,6 +1,6 @@
-baseURL = "https://ayamir.github.io"
+baseURL = "https://joelabreurojas.github.io"
 languageCode = "en-US"
-title = "j4breu (Joel Abreu)"
+title = "Joel Abreu Rojas"
 theme = "github-style"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
@@ -8,12 +8,10 @@ pygmentsUseClasses = true
 [params]
   author = "Joel Abreu"
   description = "Code is measured by the time it takes to understand and use it, not by the number of lines."
-  github = "j4breu"
-  facebook = "j4breu"
-  twitter = "j4breu"
-  linkedin = "j4breu"
+  github = "joelabreurojas"
+  linkedin = "joelabreurojas"
   email = "joelabreurojas@gmail.com"
-  keywords = "Database Design, Memory Management, Open-Source Development, Web Scraping"
+  keywords = "Software Engineering, Database Design, Python, AI, Automation, Linux"
   rss = true
   userStatusEmoji = "👀"
   favicon = "/images/favicon.png"
