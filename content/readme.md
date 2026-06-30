@@ -39,7 +39,7 @@ Responsive Web Design Certificate — 2023
 
 - [DBFxSQL](https://github.com/joelabreurojas/DBFxSQL): Bidirectional DBF ↔ SQL sync with real-time file monitoring
 - [ProVAI](https://github.com/joelabreurojas/ProVAI): RAG-based intelligent tutor — thesis project
-- [binput](https://github.com/joelabreurojas/binput): Custom input() with type validation in C
+- [hinput](https://github.com/joelabreurojas/hinput): Custom input() with type validation in C
 - [notes](https://github.com/joelabreurojas/notes): 50+ notes on AI, ML, and software engineering
 - [ssot](https://github.com/joelabreurojas/ssot): Single Source of Truth methodology docs
 
