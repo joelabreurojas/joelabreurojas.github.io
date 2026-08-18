@@ -6,15 +6,15 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  author = "Joel Abreu"
-  description = "Code is measured by the time it takes to understand and use it, not by the number of lines."
-  github = "joelabreurojas"
-  linkedin = "joelabreurojas"
-  email = "joelabreurojas@gmail.com"
-  keywords = "Software Engineering, Database Design, Python, AI, Automation, Linux"
-  rss = true
-  userStatusEmoji = "👀"
-  favicon = "/images/favicon.png"
-  avatar = "/images/avatar.png"
-  headerIcon = "/images/github-mark-white.png"
-  location = "Puerto Ordaz, Venezuela"
+author = "Joel Abreu Rojas"
+description = "Software Engineer"
+github = "joelabreurojas"
+linkedin = "joelabreurojas"
+email = "joelabreurojas@gmail.com"
+keywords = "Software Engineer, Python, RAG, LLMs, LangChain, FastAPI, System Design, Architecture, AI Engineering"
+rss = true
+userStatusEmoji = "👀"
+favicon = "/images/favicon.png"
+avatar = "/images/avatar.png"
+headerIcon = "/images/github-mark-white.png"
+location = "Puerto Ordaz, Venezuela"
